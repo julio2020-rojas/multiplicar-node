@@ -7,6 +7,6 @@ de tablas de multiplicar
 
 ejecutar este comando
 
-'''
+```
 npm install
-'''
+```
